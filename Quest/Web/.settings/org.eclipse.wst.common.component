@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+        
+    <wb-module deploy-name="WebTest_city_ban_name_Sol">
+                
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+                
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+                
+        <property name="java-output-path" value="/WebTest_city_ban_name_Sol/build/classes"/>
+        <property name="context-root" value="WebTest_seoul_11_SongEunJu"/>
+            
+    </wb-module>
+    
+</project-modules>

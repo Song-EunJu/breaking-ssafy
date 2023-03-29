@@ -1,0 +1,7 @@
+자바 관련 프로그램을 작성하다 보면 개발자의 실수로 코드 작성 예외가 발생한다. 
+발생하는 예외들 중 RuntimeException을 상속받은 예외들이 있는데, 
+이런 런타임 예외를 상속 받은 예외를 3가지 이상 적고, 발생하는 이유를 서술하시오.(15점, 부분 채점 됨)
+
+1. ArithmeticException : 0으로 나눈 경우에 발생
+2. ArrayIndexOutOfBoundsException : 배열 인덱스가 배열의 크기를 넘어간 경우 발생
+3. NoSuchElementException : 요청한 요소가 존재하지 않는 경우 발생
